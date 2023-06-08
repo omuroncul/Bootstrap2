@@ -7,4 +7,4 @@ Css ile desteklenmiştir.
 
 <h3> EKRAN GÖRÜNTÜSÜ </h3>
 
-https://github.com/omuroncul/Bootstrap2/assets/129686552/41e6093a-604a-44e7-b645-8bce3732a365
+https://github.com/omuroncul/Bootstrap2/assets/129686552/356c8098-c323-4385-a892-73d2fc422667
